@@ -9,11 +9,12 @@
     <lastBuildDate>Fri, 25 Sep 2020 17:07:57 +0200</lastBuildDate><atom:link href="https://olivierpan.github.io/OlivierPan/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Premier coup avec Hugo</title>
-      <link>https://olivierpan.github.io/OlivierPan/new_start/</link>
+      <link>https://olivierpan.github.io/OlivierPan/first_article/</link>
       <pubDate>Fri, 25 Sep 2020 17:07:57 +0200</pubDate>
       
-      <guid>https://olivierpan.github.io/OlivierPan/new_start/</guid>
-      <description></description>
+      <guid>https://olivierpan.github.io/OlivierPan/first_article/</guid>
+      <description>This article is dedicated to NLP
+Now you see? </description>
     </item>
     
   </channel>
