@@ -6,7 +6,16 @@
     <description>Recent content on PanSA&#39;s port</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 17:07:57 +0200</lastBuildDate><atom:link href="https://olivierpan.github.io/OlivierPan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 18:33:39 +0200</lastBuildDate><atom:link href="https://olivierpan.github.io/OlivierPan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://olivierpan.github.io/OlivierPan/posts/second-post/</link>
+      <pubDate>Fri, 25 Sep 2020 18:33:39 +0200</pubDate>
+      
+      <guid>https://olivierpan.github.io/OlivierPan/posts/second-post/</guid>
+      <description>This is a second paragraph of second trial, let&amp;rsquo;s see Normally, everything goes find &amp;ndash; But, as things go donw</description>
+    </item>
+    
     <item>
       <title>Premier coup avec Hugo</title>
       <link>https://olivierpan.github.io/OlivierPan/first_article/</link>

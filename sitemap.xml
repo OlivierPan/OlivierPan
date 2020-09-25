@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://olivierpan.github.io/OlivierPan/</loc>
+    <lastmod>2020-09-25T18:33:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivierpan.github.io/OlivierPan/posts/</loc>
+    <lastmod>2020-09-25T18:33:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivierpan.github.io/OlivierPan/posts/second-post/</loc>
+    <lastmod>2020-09-25T18:33:39+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://olivierpan.github.io/OlivierPan/tags/hugo/</loc>
     <lastmod>2020-09-25T17:07:57+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivierpan.github.io/OlivierPan/tags/intro/</loc>
-    <lastmod>2020-09-25T17:07:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivierpan.github.io/OlivierPan/</loc>
-    <lastmod>2020-09-25T17:07:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivierpan.github.io/OlivierPan/posts/</loc>
     <lastmod>2020-09-25T17:07:57+02:00</lastmod>
   </url>
   
